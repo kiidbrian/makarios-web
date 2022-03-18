@@ -3,7 +3,6 @@ import { Container } from 'reactstrap';
 import { Route, Routes } from 'react-router-dom';
 import { ToastContainer } from 'react-toastify';
 import LoginPage from './components/login';
-import MembersPage from './components/members';
 import AddEdit from './components/members/form';
 // import ProtectedRoute from './components/login/protected';
 import Store from './store';
